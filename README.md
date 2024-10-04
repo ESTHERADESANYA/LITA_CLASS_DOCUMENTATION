@@ -14,3 +14,24 @@ The primary sources of Data used here is Data sales csv and this is open source 
   3. For visualization
 - SQL- Structured Query Language for quering of data
 - Gifthub for building portfolio
+
+### Data Cleaning and Preparation
+In the intial phase of the Data Cleaning and preparation: we perform the following action;
+
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+- EDA involve exploring of the data to answer some questions about the Data such as;
+- What is the overall sales trend
+- Which product are top sellers
+- What are the product on peak sales
+
+
+
+
+
+
+
+

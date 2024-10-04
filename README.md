@@ -27,6 +27,8 @@ In the intial phase of the Data Cleaning and preparation: we perform the followi
 - What is the overall sales trend
 - Which product are top sellers
 - What are the product on peak sales
+### Data Analysis
+This is where we include some basic lines of code or queries or even some of the OAX expressions used during your analysis;
 
 
 
